@@ -4,14 +4,12 @@
 
 # Styles
 
-<img src="./examples/style/la_muse.jpg" "width=250"img src="./examples/style/rain_princess.jpg" "width=250">
-<img src="./examples/style/rain_princess.jpg" "width=250" >
-<img src="./examples/style/the_scream.jpg" "width=250">
-
-
-<img src="./examples/style/the_shipwreck_of_the_minotaur.jpg" "width=250">
-<img src="./examples/style/udnie.jpg""width=250" >
-<img src="./examples/style/wave.jpg" "width=250">
+<img src="./examples/style/la_muse.jpg">
+<img src="./examples/style/rain_princess.jpg">
+<img src="./examples/style/the_scream.jpg">
+<img src="./examples/style/the_shipwreck_of_the_minotaur.jpg" >
+<img src="./examples/style/udnie.jpg" >
+<img src="./examples/style/wave.jpg">
 
 
 
